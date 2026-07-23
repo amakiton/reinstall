@@ -98,4 +98,3 @@ if defined id (
 
 :del
 rem 删除此脚本
-del "%~f0"
